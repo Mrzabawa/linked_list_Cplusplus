@@ -1,0 +1,12 @@
+Reading words to lists...
+Sorting lists...
+Reading in words to search for...
+cat: Forward search found in 2 comparisons.
+cat: Rearward search found in 4 comparisons.
+dog: Forward search found in 3 comparisons.
+dog: Rearward search found in 3 comparisons.
+lion: Not found in forward search!
+lion: Not found in rearward search!
+zebra: Forward search found in 5 comparisons.
+zebra: Rearward search found in 1 comparisons.
+zebra hippo dog cat aardvark 
